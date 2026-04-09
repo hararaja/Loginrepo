@@ -8,8 +8,5 @@ test('Login page', async ({ page }) => {
   await page.locator('#terms').check();
   await page.locator('#signInBtn').click();
   await expect(page.locator('.alert-danger')).toHaveText('Incorrect username/password.');
-
-
-  
 });
 
