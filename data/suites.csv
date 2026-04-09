@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2085","Login page","firefox","2026-04-09","passed","2026-04-09","","example.spec.js","",""
-"","1635","Login page","chromium","2026-04-09","passed","2026-04-09","","example.spec.js","",""
-"","4976","Login page","webkit","2026-04-09","passed","2026-04-09","","example.spec.js","",""
+"","1613","Login page","chromium","2026-04-09","passed","2026-04-09","","example.spec.js","",""
+"","2016","Login page","firefox","2026-04-09","passed","2026-04-09","","example.spec.js","",""
+"","5247","Login page","webkit","2026-04-09","passed","2026-04-09","","example.spec.js","",""
